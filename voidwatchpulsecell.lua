@@ -33,6 +33,11 @@ local bags = {
     'wardrobe2',
     'wardrobe3',
     'wardrobe4',
+    -- [2026-11-22 Fix] Was: only wardrobe..wardrobe4; added wardrobe5..wardrobe8 so has_rare_item(id) checks all 8 Mog Wardrobes
+    'wardrobe5',
+    'wardrobe6',
+    'wardrobe7',
+    'wardrobe8',
 }
 
 local pulse_items = {
